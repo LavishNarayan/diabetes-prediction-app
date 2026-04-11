@@ -118,8 +118,8 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 For any queries or collaboration:
 
-* Email: [your-email@example.com](mailto:your-email@example.com)
-* GitHub: https://github.com/your-username
+* Email: lavishnarayan@gmail.com
+* GitHub: https://github.com/your-LavishNarayan
 
 ---
 
