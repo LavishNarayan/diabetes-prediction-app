@@ -1,6 +1,6 @@
 # 🩺 Diabetes Prediction App
 
-## 📌 Overview
+# 📌 Overview
 
 The **Diabetes Prediction App** is a machine learning-based application designed to predict the likelihood of diabetes in individuals based on key health parameters. This project demonstrates the practical implementation of data science and machine learning in the healthcare domain.
 
